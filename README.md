@@ -1,5 +1,6 @@
 <h1>Bienvenue dans le repo de Leo et Antho</h1>
 <p> Pas de Bundle install, ici tu ne trouvera que du Front en statique, tu vas bien t'amuser ! </p>
+<p> Les liens vers chaque élements du projets se trouvent dans la page index.html!  </p>
 <p> le kit UI se trouve sur la page KIT_UI_Flatly.html </p>
 
 <h2>1. Introduction</h2>
